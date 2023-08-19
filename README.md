@@ -12,7 +12,7 @@
  
 </div>
 
----
+
 
 ### :man_technologist: About Me :
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg.
@@ -25,10 +25,11 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :sparkles: I'm always open to new opportunities.
 
----
+
 
 ### :hammer_and_wrench: My Tech Stack :
 
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
@@ -45,8 +46,8 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
+ <br>
+ 
 ### :trophy: My Stats :
 
 <div id="stat" align="center">
